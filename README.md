@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of jellybool/flarum-ext-slug.** Not for installation: use [Packagist](https://packagist.org/packages/jellybool/flarum-ext-slug) or the [upstream repository](https://github.com/JellyBool/flarum-ext-slug).
 
-**0** versions archived · Latest: [`1.01`](https://github.com/flarchive/jellybool-flarum-ext-slug/tree/archive/v1.01) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**1** versions archived · Latest: [`1.01`](https://github.com/flarchive/jellybool-flarum-ext-slug/tree/archive/v1.01) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.01` | 2018-02-26 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/jellybool-flarum-ext-slug/tree/archive/v1.01) |
 
 Catalog entry: [packages/jellybool-flarum-ext-slug.json](https://github.com/flarchive/archive-index/blob/main/packages/jellybool-flarum-ext-slug.json)
 
